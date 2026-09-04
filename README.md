@@ -4,7 +4,7 @@ An advanced Machine Learning and AI-based student analytics system built using S
 
 The platform predicts student performance, analyzes academic risks, performs clustering, and provides AI-driven recommendations using multiple ML algorithms.
 
-## 🔗 Web Application Link - [https://edumind-study-ai.streamlit.ap](https://edu-mind-ai.streamlit.app/)
+## 🔗 Web Application Link - https://edu-mind-ai.streamlit.app/
 
 ---
 

@@ -1,0 +1,16 @@
+streamlit
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+streamlit-option-menu
+scikit-learn
+scipy
+statsmodels
+nltk
+wordcloud
+PyPDF2
+python-docx
+google-generativeai
+python-dotenv
